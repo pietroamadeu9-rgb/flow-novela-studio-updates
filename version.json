@@ -1,0 +1,9 @@
+{
+  "version": "1.1.4",
+  "releasedAt": "2026-11-27T12:36:02.585Z",
+  "repo": "pietroamadeu9-rgb/flow-novela-studio-updates",
+  "branch": "main",
+  "versionUrl": "https://raw.githubusercontent.com/pietroamadeu9-rgb/flow-novela-studio-updates/main/version.json",
+  "zipUrl": "https://raw.githubusercontent.com/pietroamadeu9-rgb/flow-novela-studio-updates/main/Flow_Novela_Studio_Instalador.zip",
+  "notes": "Opção de marcar uma ou várias histórias como Concluídas manualmente em lote ou com 1 clique (nunca voltam para a fila automática) + botão Feito manual por item"
+}
